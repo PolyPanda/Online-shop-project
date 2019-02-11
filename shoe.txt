@@ -1,0 +1,56 @@
+Brand: Jane buckle pumps
+Gender: Female
+Color: Black
+CRN : 2
+size:  Available
+Price: $598
+ 
+Brand: Miss Tennis Embroidered
+Gender: Female
+Color: White
+CRN : 3
+size:  Available
+Price: $995
+ 
+Brand: Tory Burch
+Gender: Female
+Color: Blue
+CRN : 4
+size:  Available
+Price: $127
+ 
+Brand: Adilette Striped Slide Sandal
+Gender: Female
+Color: Black/White
+CRN : 5
+size:  Available
+Price: $45
+ 
+Brand: Hangisi 105mm Satin Pump
+Gender: Female
+Color: Blue
+CRN : 6
+size:  Available
+Price: $965
+ 
+Brand: New Ace Pierced Heart Sneaker
+Gender: Female
+Color: Black
+CRN : 7
+size:  Available
+Price: $795
+ 
+Brand: Hangisi Satin
+Gender: Female
+Color: Gray
+CRN : 0
+size: 
+Price: $965
+ 
+Brand: lack
+Gender: 12345a
+Color: female
+CRN : 12
+size: availble
+Price: $100
+ 

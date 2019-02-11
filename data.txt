@@ -1,0 +1,49 @@
+Stuart Weitzman,Brown,Female,798 Available,1
+
+Jane buckle pumps,Black,Female,598 Available,2
+
+Miss Tennis Embroidered,White,Female,995 Available,3
+
+Tory Burch,Blue,Female,127 Available,4
+
+Adilette Striped Slide Sandal,Black/White,Female,45 Available,5
+
+Hangisi 105mm Satin Pump,Blue,Female,965 Available,6
+
+New Ace Pierced Heart Sneaker,Black,Female,795 Available,7
+
+Hangisi Satin,Gray,Female,965,Available,8
+
+Vera Ruffled Suede Mule Sandal,Pink,Female,325 Available,9
+
+Romy Glitter Pointed-Toe,White,Female,595 Available,10
+
+Basket Low-Top Sneaker,Black,Female,100 Available,11
+
+Camouflage Rockrunner Sneaker,Grey,Female,795 Available,12
+
+Nudistjune Suede,Pink,Female,375 Available,13
+
+Kaleikita Spiked Lace-Up Sole Sandal,Gold,Female,1295 Available,14
+
+Belle Vivier Graphic Buckle Pump,Gray,Female,850 Available,15
+
+Suede Rhinestone-Embellished Sneaker,Dark-Blue,Men,1250 Available,16
+
+GGDB Superstar Bleached Sneaker,White/Blue,Men,525 Available,17
+
+Groove Logo Pool Slide,Black,Men,195 Available,18
+
+Future Leather High-Top Sneaker,Red,Men,895 Available,19
+
+Urban Men's Leather Low-Top Sneaker,Yellow,Men,495 Available,20
+
+Santeria Etched Lace-Up Shoe,Brown,Men,1175 Available,21
+
+Calf Suede Chelsea Boot,Brown,Men,525 Available,22
+
+Leather Seat-Belt Loafer,Tan,Men,620 Available,23
+
+Skull-Etched Leather Loafer,Black,Men,950 Available,24
+
+Copford Perforated Check Sneaker,Black,Men,475 Available,25
